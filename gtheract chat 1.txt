@@ -1,4 +1,4 @@
-note:orange=less online section
+
 https://gatheract-room-three-also-gang.fandom.com/wiki/Gatheract_room_three
 
 
@@ -221,4 +221,5 @@ ok i gtg
 [Channel]:
 RS_L left the channel.
 YEL_R [OperaGX]:
+
 DotA
